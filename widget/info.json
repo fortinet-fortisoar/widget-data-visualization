@@ -1,7 +1,7 @@
 {
     "name": "dataVisualization",
     "title": "Data Visualization",
-    "subTitle": "Advance Dashboard Visualizations",
+    "subTitle": "Empowering insights through dynamic and interactive visuals",
     "version": "1.0.0",
     "releaseNotes": "unavailable",
     "metadata": {
@@ -10,13 +10,18 @@
             "Dashboard",
             "Reports"
         ],
-        "certified": "No",
-        "publisher": null,
+        "certified": "Yes",
+        "publisher": "Fortinet",
         "compatibility": [
             "7.6.2"
         ],
         "category": [
             "Utilities"
+        ],
+        "help_online": "https://github.com/fortinet-fortisoar/widget-data-visualization/blob/release/1.0.0/README.md",
+        "snapshots": [
+            "https://repo.fortisoar.fortinet.com/fsr-widgets/dataVisualization-1.0.0/images/Data-visualization-dashboard.png",
+            "https://repo.fortisoar.fortinet.com/fsr-widgets/dataVisualization-1.0.0/images/Data-visualization-settings.png"
         ]
     },
     "published_date": 1738655194,
